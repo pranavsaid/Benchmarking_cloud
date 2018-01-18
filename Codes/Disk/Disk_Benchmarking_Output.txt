@@ -1,0 +1,98 @@
+Output
+------ Executing 8 Byte Block Tasks----------- Execituing  for 1 Thread-----
+8 Byte Block Sequential Read Throughput for 1 Thread is: 1.02MB/SEC
+8 Byte Block Random Read Throughput for 1 Thread is: 0.29MB/SEC
+8 Byte Block Sequential write Throughput for 1 Thread is: 0.32MB/SEC
+8 Byte Block Sequential Read+write Throughput for 1 Thread is: 1.3419077MB/SEC
+8 Byte Block Sequential Read Latency for 1 Thread is: 75.00MSEC
+8 Byte Block Random Read Latency for 1 Thread is: 267.00MSEC------ Execituing  for 2 Thread-----
+8 Byte Block Sequential Read Throughput for 2 Thread is: 2.11MB/SEC
+8 Byte Block Random Read Throughput for 2 Thread is: 0.80MB/SEC
+8 Byte Block Sequential write Throughput for 2 Thread is: 0.62MB/SEC
+8 Byte Block Sequential Read+write Throughput for 2 Thread is: 2.726771MB/SEC
+8 Byte Block Sequential Read Latency for 2 Thread is: 367.00MSEC
+8 Byte Block Random Read Latency for 2 Thread is: 283.00MSEC------ Execituing  for 4 Thread-----
+8 Byte Block Sequential Read Throughput for 4 Thread is: 3.91MB/SEC
+8 Byte Block Random Read Throughput for 4 Thread is: 1.44MB/SEC
+8 Byte Block Sequential write Throughput for 4 Thread is: 0.97MB/SEC
+8 Byte Block Sequential Read+write Throughput for 4 Thread is: 4.8854837MB/SEC
+8 Byte Block Sequential Read Latency for 4 Thread is: 175.50MSEC
+8 Byte Block Random Read Latency for 4 Thread is: 199.75MSEC------ Execituing  for 8 Thread-----
+8 Byte Block Sequential Read Throughput for 8 Thread is: 7.26MB/SEC
+8 Byte Block Random Read Throughput for 8 Thread is: 2.13MB/SEC
+8 Byte Block Sequential write Throughput for 8 Thread is: 1.55MB/SEC
+8 Byte Block Sequential Read+write Throughput for 8 Thread is: 8.805994MB/SEC
+8 Byte Block Sequential Read Latency for 8 Thread is: 74.31MSEC
+8 Byte Block Random Read Latency for 8 Thread is: 162.22MSEC------ Executing 8 KB Block Tasks----------- Execituing  for 1 Thread-----
+8 KB Block Sequential Read Throughput for 1 Thread is: 259.28MB/SEC
+8 KB Block Random Read Throughput for 1 Thread is: 271.53MB/SEC
+8 KB Block Sequential write Throughput for 1 Thread is: 69.48MB/SEC
+8 KB Block Sequential Read+write Throughput for 1 Thread is: 328.75693MB/SEC
+8 KB Block Sequential Read Latency for 1 Thread is: 105.31MSEC
+8 KB Block Random Read Latency for 1 Thread is: 191.22MSEC------ Execituing  for 2 Thread-----
+8 KB Block Sequential Read Throughput for 2 Thread is: 540.98MB/SEC
+8 KB Block Random Read Throughput for 2 Thread is: 529.41MB/SEC
+8 KB Block Sequential write Throughput for 2 Thread is: 167.71MB/SEC
+8 KB Block Sequential Read+write Throughput for 2 Thread is: 708.6837MB/SEC
+8 KB Block Sequential Read Latency for 2 Thread is: 112.66MSEC
+8 KB Block Random Read Latency for 2 Thread is: 126.11MSEC------ Execituing  for 4 Thread-----
+8 KB Block Sequential Read Throughput for 4 Thread is: 942.95MB/SEC
+8 KB Block Random Read Throughput for 4 Thread is: 1146.35MB/SEC
+8 KB Block Sequential write Throughput for 4 Thread is: 250.77MB/SEC
+8 KB Block Sequential Read+write Throughput for 4 Thread is: 1193.7194MB/SEC
+8 KB Block Sequential Read Latency for 4 Thread is: 74.66MSEC
+8 KB Block Random Read Latency for 4 Thread is: 44.78MSEC------ Execituing  for 8 Thread-----
+8 KB Block Sequential Read Throughput for 8 Thread is: 2400.56MB/SEC
+8 KB Block Random Read Throughput for 8 Thread is: 2576.37MB/SEC
+8 KB Block Sequential write Throughput for 8 Thread is: 393.46MB/SEC
+8 KB Block Sequential Read+write Throughput for 8 Thread is: 2794.0188MB/SEC
+8 KB Block Sequential Read Latency for 8 Thread is: 25.21MSEC
+8 KB Block Random Read Latency for 8 Thread is: 22.97MSEC------ Executing 8 MB Block Tasks----------- Execituing  for 1 Thread-----
+8 MB Block Sequential Read Throughput for 1 Thread is: 2400.56MB/SEC
+8 MB Block Random Read Throughput for 1 Thread is: 2576.37MB/SEC
+8 MB Block Sequential write Throughput for 1 Thread is: 393.46MB/SEC
+8 MB Block Sequential Read+write Throughput for 1 Thread is: 2794.0188MB/SEC
+8 MB Block Sequential Read Latency for 1 Thread is: 25.21MSEC
+8 MB Block Random Read Latency for 1 Thread is: 22.97MSEC------ Execituing  for 2 Thread-----
+8 MB Block Sequential Read Throughput for 2 Thread is: 2777.92MB/SEC
+8 MB Block Random Read Throughput for 2 Thread is: 3064.18MB/SEC
+8 MB Block Sequential write Throughput for 2 Thread is: 499.56MB/SEC
+8 MB Block Sequential Read+write Throughput for 2 Thread is: 3277.478MB/SEC
+8 MB Block Sequential Read Latency for 2 Thread is: 65.60MSEC
+8 MB Block Random Read Latency for 2 Thread is: 52.49MSEC------ Execituing  for 4 Thread-----
+8 MB Block Sequential Read Throughput for 4 Thread is: 3242.14MB/SEC
+8 MB Block Random Read Throughput for 4 Thread is: 3959.53MB/SEC
+8 MB Block Sequential write Throughput for 4 Thread is: 521.23MB/SEC
+8 MB Block Sequential Read+write Throughput for 4 Thread is: 3763.3657MB/SEC
+8 MB Block Sequential Read Latency for 4 Thread is: 114.65MSEC
+8 MB Block Random Read Latency for 4 Thread is: 64.12MSEC------ Execituing  for 8 Thread-----
+8 MB Block Sequential Read Throughput for 8 Thread is: 3943.47MB/SEC
+8 MB Block Random Read Throughput for 8 Thread is: 5736.76MB/SEC
+8 MB Block Sequential write Throughput for 8 Thread is: 651.22MB/SEC
+8 MB Block Sequential Read+write Throughput for 8 Thread is: 4594.693MB/SEC
+8 MB Block Sequential Read Latency for 8 Thread is: 108.21MSEC
+8 MB Block Random Read Latency for 8 Thread is: 60.39MSEC------ Executing 80 MB Block Tasks----------- Execituing  for 1 Thread-----
+80 MB Block Sequential Read Throughput for 1 Thread is: 3943.47MB/SEC
+80 MB Block Random Read Throughput for 1 Thread is: 5736.76MB/SEC
+80 MB Block Sequential write Throughput for 1 Thread is: 651.22MB/SEC
+80 MB Block Sequential Read+write Throughput for 1 Thread is: 4594.693MB/SEC
+80 MB Block Sequential Read Latency for 1 Thread is: 108.21MSEC
+80 MB Block Random Read Latency for 1 Thread is: 60.39MSEC------ Execituing  for 2 Thread-----
+80 MB Block Sequential Read Throughput for 2 Thread is: 4148.60MB/SEC
+80 MB Block Random Read Throughput for 2 Thread is: 5979.19MB/SEC
+80 MB Block Sequential write Throughput for 2 Thread is: 745.11MB/SEC
+80 MB Block Sequential Read+write Throughput for 2 Thread is: 4893.718MB/SEC
+80 MB Block Sequential Read Latency for 2 Thread is: 151.60MSEC
+80 MB Block Random Read Latency for 2 Thread is: 112.70MSEC------ Execituing  for 4 Thread-----
+80 MB Block Sequential Read Throughput for 4 Thread is: 4561.04MB/SEC
+80 MB Block Random Read Throughput for 4 Thread is: 6396.30MB/SEC
+80 MB Block Sequential write Throughput for 4 Thread is: 911.46MB/SEC
+80 MB Block Sequential Read+write Throughput for 4 Thread is: 5472.4976MB/SEC
+80 MB Block Sequential Read Latency for 4 Thread is: 147.90MSEC
+80 MB Block Random Read Latency for 4 Thread is: 136.42MSEC------ Execituing  for 8 Thread-----
+80 MB Block Sequential Read Throughput for 8 Thread is: 5220.32MB/SEC
+80 MB Block Random Read Throughput for 8 Thread is: 6968.62MB/SEC
+80 MB Block Sequential write Throughput for 8 Thread is: 1024.35MB/SEC
+80 MB Block Sequential Read+write Throughput for 8 Thread is: 6244.6724MB/SEC
+80 MB Block Sequential Read Latency for 8 Thread is: 189.99MSEC
+80 MB Block Random Read Latency for 8 Thread is: 140.18MSEC

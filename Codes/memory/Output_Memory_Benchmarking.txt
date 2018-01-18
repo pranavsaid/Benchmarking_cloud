@@ -1,0 +1,147 @@
+[cc@pa1-dps Memory]$ gcc -pthread memory.c -o memoutput.out 
+[cc@pa1-dps Memory]$ ./memoutput.out
+
+Sequential read+ Write with Block Size of 8 Byte 
+
+
+For 1 Thread
+Total Latency for 800 MB data 0.000057
+For 2 Thread
+Total Latency for 800 MB data 0.000057
+For 4 Thread
+Total Latency for 800 MB data 0.000057
+For 8 Thread
+Total Latency for 800 MB data 0.000057
+
+ Random Write with Block Size of 8 Byte
+
+
+For 1 Thread
+Total Latency for 800 MB data 0.000057
+For 2 Thread
+Total Latency for 800 MB data 0.000114
+For 4 Thread
+Total Latency for 800 MB data 0.000248
+For 8 Thread
+Total Latency for 800 MB data 0.000496
+
+ Sequential write with Block Size of 8 Byte
+
+
+For 1 Thread
+Total Latency for 800 MB data 0.000048
+For 2 Thread
+Total Latency for 800 MB data 0.000124
+For 4 Thread
+Total Latency for 800 MB data 0.000200
+For 8 Thread
+Total Latency for 800 MB data 0.000401
+
+Sequential read+ Write with Block Size of 8 Kilo Byte 
+
+
+For 1 Thread
+Total Throughput for 800 MB data 31.030304
+For 2 Thread
+Total Throughput for 800 MB data 6.736842
+For 4 Thread
+Total Throughput for 800 MB data 2.015748
+For 8 Thread
+Total Throughput for 800 MB data 0.533333
+
+ Random Write with Block Size of 8 Kilo Byte
+
+
+For 1 Thread
+Total Throughput for 800 MB data 1024.000000
+For 2 Thread
+Total Throughput for 800 MB data 256.000000
+For 4 Thread
+Total Throughput for 800 MB data 51.200001
+For 8 Thread
+Total Throughput for 800 MB data 11.636364
+
+ Sequential write with Block Size of 8 Kilo Byte
+
+
+For 1 Thread
+Total Throughput for 800 MB data 1024.000000
+For 2 Thread
+Total Throughput for 800 MB data 170.666672
+For 4 Thread
+Total Throughput for 800 MB data 42.666668
+For 8 Thread
+Total Throughput for 800 MB data 11.636364
+
+Sequential read+ Write with Block Size of 8 Mega Byte 
+
+
+For 1 Thread
+Total Throughput for 800 MB data 33.032257
+For 2 Thread
+Total Throughput for 800 MB data 7.641791
+For 4 Thread
+Total Throughput for 800 MB data 2.169492
+For 8 Thread
+Total Throughput for 800 MB data 0.542373
+
+ Random Write with Block Size of 8 Mega Byte
+
+
+For 1 Thread
+Total Throughput for 800 MB data 1024.000000
+For 2 Thread
+Total Throughput for 800 MB data 256.000000
+For 4 Thread
+Total Throughput for 800 MB data 64.000000
+For 8 Thread
+Total Throughput for 800 MB data 16.000000
+
+ Sequential write with Block Size of 8 Mega Byte
+
+
+For 1 Thread
+Total Throughput for 800 MB data 1024.000000
+For 2 Thread
+Total Throughput for 800 MB data 256.000000
+For 4 Thread
+Total Throughput for 800 MB data 64.000000
+For 8 Thread
+Total Throughput for 800 MB data 16.000000
+
+Sequential read+ Write with Block Size of 80 Mega Byte 
+
+
+For 1 Thread
+Total Throughput for 800 MB data 1024.000000
+For 2 Thread
+Total Throughput for 800 MB data 170.666672
+For 4 Thread
+Total Throughput for 800 MB data 51.200001
+For 8 Thread
+Total Throughput for 800 MB data 12.800000
+
+ Random Write with Block Size of 80 Mega Byte
+
+
+For 1 Thread
+Total Throughput for 800 MB data 1024.000000
+For 2 Thread
+Total Throughput for 800 MB data 256.000000
+For 4 Thread
+Total Throughput for 800 MB data 64.000000
+For 8 Thread
+Total Throughput for 800 MB data 16.000000
+
+ Sequential write with Block Size of 80 Mega Byte
+
+
+For 1 Thread
+Total Throughput for 800 MB data 1024.000000
+For 2 Thread
+Total Throughput for 800 MB data 512.000000
+For 4 Thread
+Total Throughput for 800 MB data 64.000000
+For 8 Thread
+Total Throughput for 800 MB data 16.000000
+[cc@pa1-dps Memory]$ 

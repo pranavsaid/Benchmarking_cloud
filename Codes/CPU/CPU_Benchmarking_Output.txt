@@ -1,0 +1,19 @@
+Output
+------ Execituing FLOPS Tasks-----
+------ Execituing GFLOPS for 1 Thread-----
+Toal GFLOPS for 1 thread is: 0.48
+------ Execituing GFLOPS for 2 Thread-----
+Toal GFLOPS for 2 thread is: 0.93
+------ Execituing GFLOPS for 4 Thread-----
+Toal GFLOPS for 4 thread is: 0.97
+------ Execituing GFLOPS for 8 Thread-----
+Toal GFLOPS for 8 thread is: 0.97
+------ Execituing IOPS Tasks-----
+------ Execituing GIOPS for 1 Thread-----
+Toal GIOPS for 1 thread is: 0.41
+------ Execituing GIOPS for 2 Thread-----
+Toal GIOPS for 2 thread is: 0.75
+------ Execituing GIOPS for 4 Thread-----
+Toal GIOPS for 4 thread is: 0.80
+------ Execituing GIOPS for 8 Thread-----
+Toal GIOPS for 8 thread is: 0.82

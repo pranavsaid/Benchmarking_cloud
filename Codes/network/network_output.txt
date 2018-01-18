@@ -1,0 +1,51 @@
+[cc@pa1-dps Network]$ ls
+TCPclient.class  TCPclient_thread.class  TCPServer.class
+TCPclient.java   TCPclient_thread.java   TCPServer.java
+[cc@pa1-dps Network]$ java TCPclient
+------ Execituing  for 1 Thread-----
+
+Throughput is 3521.13MB/sec
+
+Latency is 142000.00Millisec
+------ Execituing  for 2 Thread-----
+Throughput is 8423.08MB/sec
+
+Latency is 96500.00Millisec
+------ Execituing  for 4 Thread-----
+
+Throughput is 14673.08MB/sec
+
+Latency is 29125.00Millisec
+------ Execituing  for 8 Thread-----
+
+Throughput is 16275.64MB/sec
+
+Latency is 8515.63Millisec
+[cc@pa1-dps Network]$ 
+
+
+
+
+[cc@test ~]$ java UDPClient
+------ Execituing UDP for 1Thread-----
+
+Throughput is 1.95MB/sec
+
+Latency is 1000.00Millisec
+------ Execituing UDP for 2Thread-----
+
+Throughput is 4.88MB/sec
+
+Latency is 2000.00Millisec
+------ Execituing UDP for 4Thread-----
+
+Throughput is 12.70MB/sec
+
+Latency is 1500.00Millisec
+------ Execituing UDP for 8Thread-----
+java.lang.ArithmeticException: / by zero
+
+Throughput is 26.37MB/sec
+
+Latency is 1062.50Millisec
+[cc@test ~]$ 
